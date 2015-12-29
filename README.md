@@ -66,7 +66,7 @@ The browser build is inside the `dist/focus.js`
 ### Node js
 
 Focus is publish under the name [focusjs](https://www.npmjs.com/package/focusjs) on npm.
-In order to use focus you can user `require('focus')`
+In order to use focus you can user `require('focus')`.
 You can require submodules of focus such as the network: `require('focus/network/fetch')` or `require('focus').network.fetch`.
 
 ## [Contributors](https://github.com/KleeGroup/focus/graphs/contributors)
